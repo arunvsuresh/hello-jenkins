@@ -1,0 +1,4 @@
+deploy:
+  provider: heroku
+  app: # optional if it's the same as your repo name
+  api_key: "9fdf0c5e-0cff-4471-85e9-3735ff025217"

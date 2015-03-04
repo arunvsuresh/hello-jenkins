@@ -1,2 +1,3 @@
 # hello-travis
-My super sample app to test out Travis.
+My sample app to test out travis.
+>>>>>>> change repo name
