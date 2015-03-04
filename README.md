@@ -1,2 +1,2 @@
 # hello-travis
-My super sample app to test out Jenkins.
+My super sample app to test out Travis.
